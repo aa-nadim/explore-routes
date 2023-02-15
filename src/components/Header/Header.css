@@ -1,4 +1,8 @@
 .header a {
   text-decoration: none;
-  margin-right: ;
+  margin-right: 15px;
+  padding: 2px 5pxs;
+}
+.header a:hover{
+  background-color: lightblue;
 }
