@@ -11,7 +11,7 @@ const Friend = (friend) => {
       <p>Email: {email} </p>
       <p>
         <small>
-          userName: <Link to={`/friend/${id}`}>{username}</Link>{' '}
+          userName: <Link to={`/friend/${id}`}>{username}</Link>
         </small>
       </p>
     </div>
