@@ -9,3 +9,5 @@
 4. `***52-4 Load Users, display users, dynamic link, Not Found`
 
 5. `******52-5 React route parameter and load data based on dynamic route`
+
+6. `*****52-6 (Recap) Create Route and Load Data based on Route`
