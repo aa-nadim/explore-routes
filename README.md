@@ -11,3 +11,5 @@
 5. `******52-5 React route parameter and load data based on dynamic route`
 
 6. `*****52-6 (Recap) Create Route and Load Data based on Route`
+
+7. `***52-7 (Recap) Dynamic route, Dynamic Data loader and active route`
