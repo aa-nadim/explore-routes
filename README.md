@@ -13,3 +13,15 @@
 6. `*****52-6 (Recap) Create Route and Load Data based on Route`
 
 7. `***52-7 (Recap) Dynamic route, Dynamic Data loader and active route`
+
+রাউটার সেটাপ করার জাস্ট পাঁচটা স্টেপ-
+
+১. প্রথমেই তোমাকে createBrowserRouter ইউজ করতে হবে app.js এ।
+
+২. তারপর আমরা App.js এ Routes, RouterProvider সেট করবো।
+
+৩. তার ভিতরে থাকবে এক একটা Route
+
+৪. সেইসব Route এর মধ্যে থাকবে path
+
+৫. আর Route এর মধ্যে element নামে আরেকটা prop সেট করে দিবো তাহলেই কাজ শেষ।
